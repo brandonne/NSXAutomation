@@ -10,7 +10,7 @@
     "tier0_path": "/infra/tier-0s/T0-GW",
     "route_advertisement_types": [ 
       "TIER1_NAT",
-      "TIER1_CONNECTED“ 
+      "TIER1_CONNECTED"
     ]
    }
   },
