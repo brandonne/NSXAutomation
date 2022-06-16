@@ -1,5 +1,5 @@
 { "resource_type": "Infra",
-children": [
+"children": [
   {
    "resource_type": "ChildTier1",
    "Tier1": { 
@@ -12,9 +12,9 @@ children": [
       "TIER1_NAT",
       "TIER1_CONNECTED“ 
     ]
-}
-},
-{
+   }
+  },
+  {
   "resource_type":"ChildSegment",
   "Segment": {
     "resource_type": "Segment",
